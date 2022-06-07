@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5b82d77622480b161399fba70e8fd26d",
+  "assets/AssetManifest.json": "d64141ee69691ba80d77e0212a283a00",
 "assets/assets/brand1.png": "f3a3a0de79048e1f14aac62ec76609b8",
 "assets/assets/brand2.png": "91c6d8820e35e10e39757e0de6ac4345",
 "assets/assets/brand3.png": "c0915a84744f3481a2105c5aea6727e0",
@@ -12,7 +12,6 @@ const RESOURCES = {
 "assets/assets/design.png": "6aaec412d8837ac9a83f03f453877606",
 "assets/assets/develop.png": "471c2c94d5d04112086eba9fd78c6809",
 "assets/assets/email.png": "5eb3c4b86aafbee72b8c471b29413a50",
-"assets/assets/female.png": "29c52b49d99a5de88d34ab04aafe3f59",
 "assets/assets/fonts/Raleway-Bold.ttf": "f49f3d2d9df5013c9bfaab7e3d39ee57",
 "assets/assets/fonts/Raleway-Regular.ttf": "9942588a6c84f959132556d99e83ded6",
 "assets/assets/icons/bonus.svg": "5d37487c0d6694dac0fde8c73cdd9c33",
@@ -25,14 +24,13 @@ const RESOURCES = {
 "assets/assets/icons/pending.svg": "8eebaf40d3292ca1f8818e4d2d1a6f29",
 "assets/assets/icons/totalearnings.svg": "bbe9ed3bfd714689b5d2c66de4cf6385",
 "assets/assets/icons/unknown.svg": "b2f3cdc507252d75dea079282f14614f",
-"assets/assets/images/carddelivery.jpg": "3f1d46b269b22724d0b0c4585fb3185d",
+"assets/assets/images/carddelivery.jpg": "10476e6d4c696fb7bcce9607a6783afb",
 "assets/assets/images/error.png": "34a3c86257800bf5e90595c112370b19",
 "assets/assets/images/Euronet%2520Bank_free-file.png": "afb019696bf13933e84685d0450df240",
-"assets/assets/images/loanrequest.jpg": "a6b419d6d9b064469ea0b384a2924e99",
-"assets/assets/images/onlineuse.jpg": "13d2f622c4ba426a579489a0e6435dd5",
+"assets/assets/images/loanrequest.jpg": "5258e1fd42cc93c2f4e5a76be3cd7247",
+"assets/assets/images/onlineuse.jpg": "90f1c8d12ebf4014c5e8bce78c7ba71f",
 "assets/assets/ios.png": "5d1bd36b752f83f7a27ad4e083e9db66",
 "assets/assets/laptop.png": "9bf9a72519590799d19d1386c9f0fa2e",
-"assets/assets/male.png": "a687ddbf4597360c3b9e293a58b1d829",
 "assets/assets/mappin.png": "9cc090022ae31337336d2024160714b8",
 "assets/assets/person.png": "467d3085b517840d1c3dcef68c348db0",
 "assets/assets/person_small.png": "66fb80074a286fd061f4fc3eeaabf916",
@@ -54,10 +52,12 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0bf1196eabd793f7b4a1c8690f9f4c3f",
-"/": "0bf1196eabd793f7b4a1c8690f9f4c3f",
-"main.dart.js": "b46e9adadf5a14759a91b40f45617dc0",
+"img/euronet-logo.png": "afb019696bf13933e84685d0450df240",
+"index.html": "f64ba910b2b1169bab41dc59af1b6369",
+"/": "f64ba910b2b1169bab41dc59af1b6369",
+"main.dart.js": "6833d721675c34afc54f03408c3c1699",
 "manifest.json": "867d711c289e3a35a68c1c0a5e50c0d4",
+"styles.css": "2e53f4d45e88a10a066a05e0df0c1405",
 "version.json": "080a5b476ef47d519bddfe8d00ab2b74"
 };
 
