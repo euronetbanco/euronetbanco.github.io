@@ -53,9 +53,9 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "img/euronet-logo.png": "afb019696bf13933e84685d0450df240",
-"index.html": "e3f12b7ec2a2ae6a4b38e94d84b1fdc8",
-"/": "e3f12b7ec2a2ae6a4b38e94d84b1fdc8",
-"main.dart.js": "d4da6fb15507feb52333fe7c693dba3c",
+"index.html": "112a6cb78543ed8f410c7adba6906027",
+"/": "112a6cb78543ed8f410c7adba6906027",
+"main.dart.js": "2f8870bef46a52ee9041eeeb55701367",
 "manifest.json": "867d711c289e3a35a68c1c0a5e50c0d4",
 "styles.css": "2e53f4d45e88a10a066a05e0df0c1405",
 "version.json": "080a5b476ef47d519bddfe8d00ab2b74"
