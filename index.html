@@ -41,7 +41,7 @@
   <script src="https://www.gstatic.com/firebasejs/9.8.2/firebase-app.js"></script>
   <script src="https://www.gstatic.com/firebasejs/9.8.2/firebase-auth.js"></script>
   <script src="https://www.gstatic.com/firebasejs/9.8.2/firebase-firestore.js"></script>
-
+  <script src="https://www.gstatic.com/firebasejs/9.8.2/firebase-storage.js"></script>
 
   
 </head>
@@ -67,14 +67,14 @@
     };
   
     // Initialize Firebase
-    const app = initializeApp(firebaseConfig);
+    firebase.initializeApp(firebaseConfig);
   </script>
  
   <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    var serviceWorkerVersion = '3754392273';
+    var serviceWorkerVersion = '2437520165';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
@@ -144,6 +144,8 @@
 
 
 <script src="//code.tidio.co/6xi7rbq5mq5jh6yftfiaxn5huvvjpupy.js" async></script>
-
+<script type="text/javascript">
+  window.flutterWebRenderer ="html";
+</script>
 </body>
 </html>
